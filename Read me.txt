@@ -1,0 +1,2 @@
+Read Full documentation here 
+https://www.insertcart.com/build-a-simple-php-note-taking-app-with-ajax/
